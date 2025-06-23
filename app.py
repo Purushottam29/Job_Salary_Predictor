@@ -30,7 +30,7 @@ if uploaded_file is not None:
         st.write("📄 Uploaded Data", df.head())
 
         with st.spinner("🔄 Loading model..."):
-            model = joblib.load("model.joblib")
+            model = joblib.load("model/model.joblib")
         st.success("✅ Model loaded!")
 
         if st.button("Predict Salaries"):
