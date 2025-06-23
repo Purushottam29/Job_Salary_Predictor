@@ -94,4 +94,5 @@ streamlit run app.py
 GitHub: [@Purushottam29](https://github.com/Purushottam29)
 
 ---
+Deployed Link: https://jobsalarypredictor-khbbnpkp8jsoshtllqzmu2.streamlit.app/
 
